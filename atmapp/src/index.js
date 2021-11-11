@@ -1,0 +1,9 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Account from './App';
+
+
+ReactDOM.render(
+  <Account/>,
+  document.getElementById('root')
+);

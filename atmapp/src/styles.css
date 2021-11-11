@@ -1,0 +1,37 @@
+.container {
+    position: absolute;
+    background-color: #282c34;
+    color: whitesmoke;
+    height: auto;
+    border-radius: 20px;
+    
+    top: 20%;
+    left: 38%;
+    
+}
+body {
+    background-color: yellow;
+    
+}
+
+#root {
+    height: 98%;
+}
+.select {
+    background-color: yellow;
+    border-radius: 15px;
+}
+.form {
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input-button {
+    border-radius: 20px;
+    background-color: green;
+    color: black;
+    margin: 2px;
+}
+
+.input-button:disabled {
+    background-color: red;
+}
